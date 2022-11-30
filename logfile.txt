@@ -1,0 +1,545 @@
+200 adjusting, time up
+game 2 lost
+400 adjusting, time up
+game 3 lost
+game 4 won
+600 adjusting, time up
+game 5 lost
+game 6 won
+800 adjusting, time up
+game 7 lost
+1000 adjusting, time up
+game 8 lost
+1200 adjusting, time up
+game 9 lost
+1400 adjusting, time up
+game 10 lost
+game 11 won
+1600 adjusting, time up
+game 12 lost
+1800 adjusting, time up
+game 13 lost
+2000 adjusting, time up
+game 14 lost
+2200 adjusting, time up
+game 15 lost
+2400 adjusting, time up
+game 16 lost
+2600 adjusting, time up
+game 17 lost
+2800 adjusting, time up
+game 18 lost
+3000 adjusting, time up
+game 19 lost
+3200 adjusting, time up
+game 20 lost
+3400 adjusting, time up
+game 21 lost
+3600 adjusting, time up
+game 22 lost
+3800 adjusting, time up
+game 23 lost
+4000 adjusting, time up
+game 24 lost
+4200 adjusting, time up
+game 25 lost
+4400 adjusting, time up
+game 26 lost
+game 27 won
+4600 adjusting, time up
+game 28 lost
+4800 adjusting, time up
+game 29 lost
+5000 adjusting, time up
+game 30 lost
+5200 adjusting, time up
+game 31 lost
+game 32 won
+5400 adjusting, time up
+game 33 lost
+5600 adjusting, time up
+game 34 lost
+game 35 won
+5800 adjusting, time up
+game 36 lost
+6000 adjusting, time up
+game 37 lost
+6200 adjusting, time up
+game 38 lost
+6400 adjusting, time up
+game 39 lost
+6600 adjusting, time up
+game 40 lost
+game 41 won
+6800 adjusting, time up
+game 42 lost
+7000 adjusting, time up
+game 43 lost
+7200 adjusting, time up
+game 44 lost
+7400 adjusting, time up
+game 45 lost
+7600 adjusting, time up
+game 46 lost
+game 47 won
+7800 adjusting, time up
+game 48 lost
+8000 adjusting, time up
+game 49 lost
+8200 adjusting, time up
+game 50 lost
+8400 adjusting, time up
+game 51 lost
+8600 adjusting, time up
+game 52 lost
+8800 adjusting, time up
+game 53 lost
+9000 adjusting, time up
+game 54 lost
+9200 adjusting, time up
+game 55 lost
+9400 adjusting, time up
+game 56 lost
+9600 adjusting, time up
+game 57 lost
+9800 adjusting, time up
+game 58 lost
+10000 adjusting, time up
+game 59 lost
+game 60 won
+game 61 won
+10200 adjusting, time up
+game 62 lost
+10400 adjusting, time up
+game 63 lost
+10600 adjusting, time up
+game 64 lost
+10800 adjusting, time up
+game 65 lost
+game 66 won
+11000 adjusting, time up
+game 67 lost
+11200 adjusting, time up
+game 68 lost
+11400 adjusting, time up
+game 69 lost
+11600 adjusting, time up
+game 70 lost
+11800 adjusting, time up
+game 71 lost
+12000 adjusting, time up
+game 72 lost
+12200 adjusting, time up
+game 73 lost
+12400 adjusting, time up
+game 74 lost
+game 75 won
+12600 adjusting, time up
+game 76 lost
+12800 adjusting, time up
+game 77 lost
+13000 adjusting, time up
+game 78 lost
+13200 adjusting, time up
+game 79 lost
+13400 adjusting, time up
+game 80 lost
+13600 adjusting, time up
+game 81 lost
+13800 adjusting, time up
+game 82 lost
+14000 adjusting, time up
+game 83 lost
+14200 adjusting, time up
+game 84 lost
+14400 adjusting, time up
+game 85 lost
+game 86 won
+14600 adjusting, time up
+game 87 lost
+14800 adjusting, time up
+game 88 lost
+game 89 won
+15000 adjusting, time up
+game 90 lost
+15200 adjusting, time up
+game 91 lost
+15400 adjusting, time up
+game 92 lost
+15600 adjusting, time up
+game 93 lost
+15800 adjusting, time up
+game 94 lost
+16000 adjusting, time up
+game 95 lost
+game 96 won
+16200 adjusting, time up
+game 97 lost
+16400 adjusting, time up
+game 98 lost
+16600 adjusting, time up
+game 99 lost
+16800 adjusting, time up
+game 100 lost
+17000 adjusting, time up
+game 101 lost
+17200 adjusting, time up
+game 102 lost
+17400 adjusting, time up
+game 103 lost
+17600 adjusting, time up
+game 104 lost
+17800 adjusting, time up
+game 105 lost
+18000 adjusting, time up
+game 106 lost
+18200 adjusting, time up
+game 107 lost
+18400 adjusting, time up
+game 108 lost
+18600 adjusting, time up
+game 109 lost
+18800 adjusting, time up
+game 110 lost
+19000 adjusting, time up
+game 111 lost
+19200 adjusting, time up
+game 112 lost
+19400 adjusting, time up
+game 113 lost
+19600 adjusting, time up
+game 114 lost
+game 115 won
+19800 adjusting, time up
+game 116 lost
+20000 adjusting, time up
+game 117 lost
+20200 adjusting, time up
+game 118 lost
+20400 adjusting, time up
+game 119 lost
+20600 adjusting, time up
+game 120 lost
+20800 adjusting, time up
+game 121 lost
+21000 adjusting, time up
+game 122 lost
+21200 adjusting, time up
+game 123 lost
+21400 adjusting, time up
+game 124 lost
+21600 adjusting, time up
+game 125 lost
+21800 adjusting, time up
+game 126 lost
+22000 adjusting, time up
+game 127 lost
+22200 adjusting, time up
+game 128 lost
+22400 adjusting, time up
+game 129 lost
+22600 adjusting, time up
+game 130 lost
+22800 adjusting, time up
+game 131 lost
+23000 adjusting, time up
+game 132 lost
+23200 adjusting, time up
+game 133 lost
+23400 adjusting, time up
+game 134 lost
+game 135 won
+23600 adjusting, time up
+game 136 lost
+23800 adjusting, time up
+game 137 lost
+24000 adjusting, time up
+game 138 lost
+24200 adjusting, time up
+game 139 lost
+24400 adjusting, time up
+game 140 lost
+24600 adjusting, time up
+game 141 lost
+24800 adjusting, time up
+game 142 lost
+25000 adjusting, time up
+game 143 lost
+25200 adjusting, time up
+game 144 lost
+25400 adjusting, time up
+game 145 lost
+25600 adjusting, time up
+game 146 lost
+25800 adjusting, time up
+game 147 lost
+26000 adjusting, time up
+game 148 lost
+26200 adjusting, time up
+game 149 lost
+26400 adjusting, time up
+game 150 lost
+26600 adjusting, time up
+game 151 lost
+26800 adjusting, time up
+game 152 lost
+27000 adjusting, time up
+game 153 lost
+27200 adjusting, time up
+game 154 lost
+27400 adjusting, time up
+game 155 lost
+27600 adjusting, time up
+game 156 lost
+game 157 won
+27800 adjusting, time up
+game 158 lost
+28000 adjusting, time up
+game 159 lost
+game 160 won
+28200 adjusting, time up
+game 161 lost
+28400 adjusting, time up
+game 162 lost
+28600 adjusting, time up
+game 163 lost
+28800 adjusting, time up
+game 164 lost
+29000 adjusting, time up
+game 165 lost
+29200 adjusting, time up
+game 166 lost
+29400 adjusting, time up
+game 167 lost
+game 168 won
+29600 adjusting, time up
+game 169 lost
+29800 adjusting, time up
+game 170 lost
+30000 adjusting, time up
+game 171 lost
+30200 adjusting, time up
+game 172 lost
+30400 adjusting, time up
+game 173 lost
+30600 adjusting, time up
+game 174 lost
+30800 adjusting, time up
+game 175 lost
+31000 adjusting, time up
+game 176 lost
+31200 adjusting, time up
+game 177 lost
+game 178 won
+31400 adjusting, time up
+game 179 lost
+31600 adjusting, time up
+game 180 lost
+31800 adjusting, time up
+game 181 lost
+32000 adjusting, time up
+game 182 lost
+32200 adjusting, time up
+game 183 lost
+game 184 won
+32400 adjusting, time up
+game 185 lost
+32600 adjusting, time up
+game 186 lost
+32800 adjusting, time up
+game 187 lost
+33000 adjusting, time up
+game 188 lost
+game 189 won
+33200 adjusting, time up
+game 190 lost
+33400 adjusting, time up
+game 191 lost
+33600 adjusting, time up
+game 192 lost
+33800 adjusting, time up
+game 193 lost
+34000 adjusting, time up
+game 194 lost
+34200 adjusting, time up
+game 195 lost
+34400 adjusting, time up
+game 196 lost
+34600 adjusting, time up
+game 197 lost
+34800 adjusting, time up
+game 198 lost
+35000 adjusting, time up
+game 199 lost
+35200 adjusting, time up
+game 200 lost
+35400 adjusting, time up
+game 201 lost
+35600 adjusting, time up
+game 202 lost
+35800 adjusting, time up
+game 203 lost
+game 204 won
+game 205 won
+36000 adjusting, time up
+game 206 lost
+36200 adjusting, time up
+game 207 lost
+36400 adjusting, time up
+game 208 lost
+36600 adjusting, time up
+game 209 lost
+36800 adjusting, time up
+game 210 lost
+37000 adjusting, time up
+game 211 lost
+37200 adjusting, time up
+game 212 lost
+37400 adjusting, time up
+game 213 lost
+37600 adjusting, time up
+game 214 lost
+37800 adjusting, time up
+game 215 lost
+38000 adjusting, time up
+game 216 lost
+38200 adjusting, time up
+game 217 lost
+38400 adjusting, time up
+game 218 lost
+38600 adjusting, time up
+game 219 lost
+38800 adjusting, time up
+game 220 lost
+39000 adjusting, time up
+game 221 lost
+39200 adjusting, time up
+game 222 lost
+game 223 won
+39400 adjusting, time up
+game 224 lost
+39600 adjusting, time up
+game 225 lost
+39800 adjusting, time up
+game 226 lost
+40000 adjusting, time up
+game 227 lost
+40200 adjusting, time up
+game 228 lost
+40400 adjusting, time up
+game 229 lost
+40600 adjusting, time up
+game 230 lost
+40800 adjusting, time up
+game 231 lost
+41000 adjusting, time up
+game 232 lost
+41200 adjusting, time up
+game 233 lost
+41400 adjusting, time up
+game 234 lost
+41600 adjusting, time up
+game 235 lost
+41800 adjusting, time up
+game 236 lost
+42000 adjusting, time up
+game 237 lost
+game 238 won
+42200 adjusting, time up
+game 239 lost
+42400 adjusting, time up
+game 240 lost
+42600 adjusting, time up
+game 241 lost
+42800 adjusting, time up
+game 242 lost
+43000 adjusting, time up
+game 243 lost
+43200 adjusting, time up
+game 244 lost
+43400 adjusting, time up
+game 245 lost
+43600 adjusting, time up
+game 246 lost
+43800 adjusting, time up
+game 247 lost
+44000 adjusting, time up
+game 248 lost
+game 249 won
+44200 adjusting, time up
+game 250 lost
+44400 adjusting, time up
+game 251 lost
+44600 adjusting, time up
+game 252 lost
+44800 adjusting, time up
+game 253 lost
+45000 adjusting, time up
+game 254 lost
+45200 adjusting, time up
+game 255 lost
+45400 adjusting, time up
+game 256 lost
+45600 adjusting, time up
+game 257 lost
+45800 adjusting, time up
+game 258 lost
+46000 adjusting, time up
+game 259 lost
+46200 adjusting, time up
+game 260 lost
+46400 adjusting, time up
+game 261 lost
+46600 adjusting, time up
+game 262 lost
+46800 adjusting, time up
+game 263 lost
+47000 adjusting, time up
+game 264 lost
+47200 adjusting, time up
+game 265 lost
+47400 adjusting, time up
+game 266 lost
+47600 adjusting, time up
+game 267 lost
+47800 adjusting, time up
+game 268 lost
+48000 adjusting, time up
+game 269 lost
+48200 adjusting, time up
+game 270 lost
+48400 adjusting, time up
+game 271 lost
+48600 adjusting, time up
+game 272 lost
+48800 adjusting, time up
+game 273 lost
+49000 adjusting, time up
+game 274 lost
+49200 adjusting, time up
+game 275 lost
+49400 adjusting, time up
+game 276 lost
+49600 adjusting, time up
+game 277 lost
+49800 adjusting, time up
+game 278 lost
+50000 adjusting, time up
+game 279 lost
+50200 adjusting, time up
+game 280 lost
+50400 adjusting, time up
+game 281 lost
+50600 adjusting, time up
+game 282 lost
+50800 adjusting, time up
+game 283 lost
+51000 adjusting, time up
+game 284 lost
+51200 adjusting, time up
+game 285 lost
+51400 adjusting, time up
+game 286 lost
+game 287 won
+51600 adjusting, time up
+game 288 lost
